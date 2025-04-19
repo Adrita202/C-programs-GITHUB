@@ -7,9 +7,8 @@ int main()
   printf("\nInput the rows and columns of second matrix :\n");
   scanf("%d %d",&r2,&c2);
   if(c1!=r2)
-  {
 	printf("Mutiplication of Matrix is not possible.");
-  }
+
   else
   {
   	printf("Input elements in the first matrix :\n");
